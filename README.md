@@ -4,6 +4,8 @@ I'm 16 years old High School student in Turkey, I'm interested in Threat Intelli
 
 :notebook: ***Website:***
 - https://aporlorxl23.github.io/
+- https://simsekeren.wordpress.com/
+
 
 <p align="center">
   <a href="http://twitter.com/aporlorxl23">
