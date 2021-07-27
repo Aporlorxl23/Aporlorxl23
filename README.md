@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 16 years old High School student in Turkey, I'm interested in Threat Intelligence and Malware Analysis.
+I'm 16 years old High School student in Turkey, I'm interested in Application Security & Reverse Engineering.
 
 :notebook: ***Website:***
 - https://aporlorxl23.github.io/
