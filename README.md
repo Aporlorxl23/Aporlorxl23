@@ -3,7 +3,7 @@
 I'm 16 years old High School student in Turkey, I'm interested in Source Code Review & Exploit Development.
 
 :notebook: ***Website:***
-- https://www.eren.run/
+- https://eren.run/
 
 <p align="center">
   <a href="http://twitter.com/aporlorxl23">
