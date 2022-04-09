@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 17 years old High School student in Turkey, I'm interested in Reverse Engineering & Exploitation.
+I'm 17 years old High School student in Turkey, I'm interested in Reverse Engineering & Exploit Development.
 
 :notebook: ***Website:***
 - https://eren.run/
