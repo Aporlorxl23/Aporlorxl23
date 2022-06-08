@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm 17 years old High School student in Turkey, I'm interested in Reverse Engineering & Exploit Development.
+I'm a student who is very passionate about cyber security. I'm have experince in Reverse Engineering and Exploit Development. I'm improving myself in binary exploitation in the Linux operating system.
 
 :notebook: ***Website:***
-- https://eren.run/
+- [eren.run](https://eren.run/)
+- [erensimsek.net](https://erensimsek.net/)
+- [Resume](https://erensimsek.net/Resume.pdf)
 
 <p align="center">
   <a href="http://twitter.com/aporlorxl23">
