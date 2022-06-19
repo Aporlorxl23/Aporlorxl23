@@ -26,6 +26,8 @@ I'm a student who is very passionate about cyber security. I'm have experince in
 <p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=aporlorxl23&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
 -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aporlorxl23&layout=compact&hide=html&theme=codeSTACKr" alt="Aporlorxl23"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aporlorxl23&include_all_commits=true&count_private=true&show_icons=true&theme=codeSTACKr"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aporlorxl23&include_all_commits=true&count_private=true&show_icons=true&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aporlorxl23&layout=compact&hide=html&theme=codeSTACKr" alt="Aporlorxl23"/>
+
 </p>
