@@ -3,8 +3,7 @@
 I'm a student who is very passionate about cyber security. I'm have experince in Reverse Engineering and Exploit Development. I'm improving myself in binary exploitation in the Linux operating system.
 
 :notebook: ***Website:***
-- [eren.run](https://eren.run/)
-- [erensimsek.net](https://erensimsek.net/)
+- [eren.run](https://eren.run/) / [erensimsek.net](https://erensimsek.net/)
 - [Resume](https://erensimsek.net/Resume.pdf)
 
 <p align="center">
